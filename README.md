@@ -1,2 +1,2 @@
 # firstrepo
-test
+print("hi")
